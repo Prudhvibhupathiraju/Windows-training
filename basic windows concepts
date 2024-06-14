@@ -77,3 +77,15 @@ Virtual Machine
 - it is a less cost
 - we can enhance the server configuration online as per requirement.
 ---------
+
+IDRAC
+-----------
+- The Integrated Dell Remote Access Controller (iDRAC) is designated for secure local and remote server management that helps IT administrators to deploy, update and monitor PowerEdge servers
+- IDRAC is module in-built in server which can be accessed from IDRAC port through web console.
+-----------
+
+ILO
+--------
+- Integrated Lights-out (iLO) is a remote server management processor that used to monitor HP servers
+-------
+
