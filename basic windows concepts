@@ -1,0 +1,79 @@
+desktop
+-----------
+desktop normally used for personal use
+-----------
+
+types of computers
+----------
+1) client
+2) server
+---------
+
+Computer
+--------
+A computer is a machine or device that performs proccess, calculation and operations based on instructions provided by the software and hardware program
+-------
+
+desktop - desktop comes under client operations which sends requests to the server
+
+server - server is a software or hardware that accepts and responds to the requests that are made over the network
+
+client - the device that makes the requests and recieves the response from the server is known as clinet
+
+different types of servers
+----------
+1) Tower server
+2) Rack server
+3) blade server
+4) virtual machine
+---------
+
+Tower servers
+-----------
+- tower server looks same as the desktop setup
+- it used for small web based applications
+- it used for higher performance than the server
+- tower servers are most basic type of servers
+pros
+- tower servers can be cutomized and upgrades based on necessity 
+- tower servers are cheapest, hence they are cost effective.
+- tower server has low overall component density, hence it cools down quickly.
+cons
+- these servers occupy good amont of physical space and are difficult to manage physically
+- tower server is ideal for small buisiness that have limited clients
+-----------
+
+Rack servers
+-----------
+- rack servers are physically smaller than the tower servers and place inside the rack.
+- these racks are similar that of the racks where we store set of files and folders.
+- A rack server is positioned vertically over another rack server along with storage units, cooling systems, etc
+pros
+- we can easily replace malfunctioning server with another
+- management tools in racks makes it easy and efficient to organize racks
+- it is very cost effective
+cons
+- rack servers consume more power
+- requires high maintenance
+-----------
+
+Blade servers
+-----------
+- blade servers are the latest and most advanced type of serversin the market.
+- these servers are the smallest servers and used for conserving space.
+- we can add and remove the server in blade server system without turning off the system.
+pros
+- In a blade server you can connect through a single interface making the monitoring and maintenance easy.
+cons
+- expensive configurations
+----------
+
+Virtual Machine
+--------
+- A virtual machine is a computing environment that functions as a an isolated system with its own CPU, memory, network interface and storage. created from pool hardware resources
+- software called hypervisor enacbles the creation and management of hardware resources.
+- servers can run multiple Operating system on the single physical server.
+- Using hypervisor console we manage, monitor and control virtual machines from a single console
+- it is a less cost
+- we can enhance the server configuration online as per requirement.
+---------
